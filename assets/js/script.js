@@ -38,18 +38,13 @@ var dateCheck = function () {
 // WHen Save button is clicked, grab text from text container -- save to local storage (in specific time)
 
 $(".saveBtn").on("click", function() {
-  var time = $(this).siblings(".description").attr("id");
-  var value = $(this).siblings(".description").val();
-  localStorage.setItem(time,value);
+  var text = $(this).
+  localStorage.setItem(text);
 })
 
 
-
-
 // load saved text into container referencing specific time upon page load
-var loadText = function {
-  var
-}
+
 
 
 dateCheck();
