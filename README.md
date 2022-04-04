@@ -16,6 +16,7 @@ SO THAT I can manage my time effectively
 
 HTML
 CSS
+Bootstrap
 jQuery
 
 ## Acceptance Criteria
@@ -39,6 +40,8 @@ THEN the saved events persist
 <img src=./assets/images/mockup-gif.gif>
 
 ## Website
+
+https://harrison-daniel.github.io/CH-05-work-day-scheduler/
 
 ## Contribution
 
